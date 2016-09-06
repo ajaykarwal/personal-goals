@@ -33,4 +33,5 @@
 
 
 **What if I don't complete a goal?**
+
 I'll carry any incomplete goals to the following cycle which will of course make me accountable for more next time. This won't be sustainable for too long so it should get my ass into gear!
