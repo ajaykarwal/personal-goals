@@ -27,7 +27,7 @@
 - [ ] Add more content to [Makr](https://github.com/ajaykarwal/makr) website
 - [ ] 25+ members on Makr
 - [ ] Do a knowledge share at work
-- [ ] Speak at Reading Geek Night
+- [x] Speak at Reading Geek Night
 
 
 
