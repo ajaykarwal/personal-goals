@@ -24,8 +24,8 @@
 
 ## September 2016
 - [ ] Work through all of [these Swift tutorials](http://samvlu.com/tutorials.html)
-- [ ] Add more content to [Makr](https://github.com/ajaykarwal/makr) website
-- [ ] 25+ members on Makr
+- [x] Add more content to [Makr](https://github.com/ajaykarwal/makr) website
+- [x] 25+ members on Makr
 - [ ] Do a knowledge share at work
 - [x] Speak at Reading Geek Night
 
