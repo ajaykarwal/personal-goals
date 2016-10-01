@@ -5,7 +5,7 @@
 > To make things more achievable I'm going to limits the goals to 5 per month for now. I'll increase this number as I pick up momentum.
 >
 > As I'm starting this project towards the end of the year (Sept 2016) the long term goals are fairly ambitious and stretch to the end of 2017.
-> 
+>
 > The long term goals for the year have no strict timescale or priority. They're just things which I would like to achieve at some point.
 
 
@@ -22,17 +22,25 @@
 
 
 
-## September 2016
+## October 2016
 - [ ] Work through all of [these Swift tutorials](http://samvlu.com/tutorials.html)
-- [x] Add more content to [Makr](https://github.com/ajaykarwal/makr) website
-- [x] 25+ members on Makr
 - [ ] Do a knowledge share at work
-- [x] Speak at Reading Geek Night
+- [ ] Update website design
+- [ ] Add at least one blog post from my ideas list
+- [ ] Finish reading 'Don't make me think'
+- [ ] Finish reading 'A short history of almost everything'
+
+
+
+
+## Archive
+
+- [September 2016](/2016/september.md)
+
 
 
 
 ---
-
 
 
 
