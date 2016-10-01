@@ -1,6 +1,6 @@
 # Archive - September 2016
 
-> This is an archive of the goals for the month and their status. For the most recent goals, see the [main page](../README.md)
+> This is an archive of the goals for the month and their status. For the most recent goals, see the [main page](https://github.com/ajaykarwal/personal-goals)
 
 
 
