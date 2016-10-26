@@ -25,9 +25,9 @@
 ## October 2016
 - [ ] Work through all of [these Swift tutorials](http://samvlu.com/tutorials.html)
 - [ ] Do a knowledge share at work
-- [ ] Update website design
+- [x] Update website design
 - [ ] Add at least one blog post from my ideas list
-- [ ] Finish reading 'Don't make me think'
+- [x] Finish reading 'Don't make me think'
 - [ ] Finish reading 'A short history of almost everything'
 
 
