@@ -22,19 +22,19 @@
 
 
 
-## October 2016
-- [ ] Work through all of [these Swift tutorials](http://samvlu.com/tutorials.html)
-- [ ] Do a knowledge share at work
-- [x] Update website design
+## November 2016
+- [ ] Work through the remainder of [these Swift tutorials](http://samvlu.com/tutorials.html)
+- [ ] Write up content for knowledge share at work
 - [ ] Add at least one blog post from my ideas list
-- [x] Finish reading 'Don't make me think'
 - [ ] Finish reading 'A short history of almost everything'
-
+- [ ] Send out a welcome newsletter to Makr member
+- [ ] Write a review of 'Don't make me think'
 
 
 
 ## Archive
 
+- [October 2016](/2016/october.md)
 - [September 2016](/2016/september.md)
 
 
