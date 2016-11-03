@@ -25,5 +25,4 @@
 ## Things I did which weren't on the list
 
 - [x] Joined the gym near work and started going (almost) everyday
-- [x] Added two new posts to my [blog](http://www.ajaykarwal.com/journal/) and compiled a list of future blog post ideas.
-- [x] Shared a little info about Makr at UX Oxford.
+- [x] Started a new side project, [Monolith](https://github.com/ajaykarwal/monolith)
