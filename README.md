@@ -4,36 +4,34 @@
 >
 > To make things more achievable I'm going to limits the goals to 5 per month for now. I'll increase this number as I pick up momentum.
 >
-> As I'm starting this project towards the end of the year (Sept 2016) the long term goals are fairly ambitious and stretch to the end of 2017.
->
-> The long term goals for the year have no strict timescale or priority. They're just things which I would like to achieve at some point.
+> I also have some long term goals for the year which have no timescale or priority. They're just things which I would like to achieve at some point.
 
 
 
 
-## Long term goals for 2016/7
+## Long term goals for 2017
+- [ ] Grow the Makr Slack team and organise a meetup event
 - [ ] Speak at a conference
 - [ ] Start a podcast / get involved with an existing one
-- [ ] Publish an app on the App Store
-- [ ] Learn Ruby/Rails and apply to something practical
-- [ ] Lose around 10kg weight
+- [ ] Learn a new programming language
 - [ ] Run 5K without dying
 
 
 
 
-## November 2016
-- [ ] Work through the remainder of [these Swift tutorials](http://samvlu.com/tutorials.html)
-- [ ] Write up content for knowledge share at work
-- [ ] Add at least one blog post from my ideas list
+## Jan 2017
+- [ ] Update design of Reading List section of website
+- [x] Set up a decent WiFi network at home
+- [ ] Continue working on [Monolith](https://github.com/ajaykarwal/monolith)
 - [ ] Finish reading 'A short history of almost everything'
-- [ ] Send out a welcome newsletter to Makr member
-- [ ] Write a review of 'Don't make me think'
+- [x] Write a review of 'Don't make me think'
 
 
 
 ## Archive
 
+- [December 2016](/2016/december.md)
+- [November 2016](/2016/november.md)
 - [October 2016](/2016/october.md)
 - [September 2016](/2016/september.md)
 
