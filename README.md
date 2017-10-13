@@ -7,14 +7,12 @@
 ## Goals for 2017
 
 - [ ] Speak at a conference :speech_balloon:
-- [x] ~~Start a podcast / get involved with an existing one :microphone:~~
-      - I'm happy to announce that I've started a podcast! [Inspect](http://inspect.fm)
-- [ ] Learn a new programming language :computer:
-      - [ ] Ruby?, or
-      - [ ] Swift?, or
-      - [ ] React?
+- [x] ~~Start a podcast / get involved with an existing one :microphone:~~  
+      - I'm happy to announce that I've started a podcast! [Inspect](http://inspect.fm)
+- [x] ~~Learn a new programming language :computer:~~   
+      - I've been spending a lot of time this year learning React.
 - [ ] Run 5K without dying :runner:
-- [ ] Grow the [Makr](http://www.makr.tv) Slack team and organise a meetup event :team:
+- [ ] Grow the [Makr](http://www.makr.tv) Slack team and organise a meetup event :calendar:
 - [ ] Read at least 10 books :books:
 - [ ] Continue working on [Monolith](https://github.com/ajaykarwal/monolith) :pencil:
 - [ ] Save up for a new car :car:
